@@ -52,6 +52,15 @@ Skills
 * Detail oriented
 * Highly motivated
 
+Languages
+======
+* Greek  
+Native
+* English  
+Michigan Proficiency C2 (full working proficiency)
+* German  
+Goethe-Zertifikat B1 (limited working proficiency)
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
