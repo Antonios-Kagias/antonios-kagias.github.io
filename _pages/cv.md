@@ -36,7 +36,6 @@ Conference presentations
   
 Skills
 ======
-* Skill 1
 * Python
 * Java
 * R
