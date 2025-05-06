@@ -19,7 +19,7 @@ Education
   *Programming languages used: Python*
 * **Applied Informatics (Major: Technology Management)**, *University of Macedonia*, September 2018 - September 2022
   * Grade: 8.2/10  
-  ***Certificates acquired:***  
+* *Certificates acquired:*  
   Educational and Teaching Competence
 
 Work experience
@@ -37,11 +37,21 @@ Conference presentations
 Skills
 ======
 * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Java
+* R
+* C
+* SQL
+* HTML
+* CSS
+* JavaScript
+* Tinkercad
+* KiCad
+* Teamwork
+* Time management
+* Fast learner
+* Detail oriented
+* Highly motivated
 
 Publications
 ======
