@@ -19,7 +19,7 @@ Education
   *Programming languages used: Python*
 * **Applied Informatics (Major: Technology Management)**, *University of Macedonia*, September 2018 - September 2022
   * Grade: 8.2/10  
-* *Certificates acquired:*  
+  * *Certificates acquired:*  
   Educational and Teaching Competence
 
 Work experience
