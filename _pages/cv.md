@@ -36,29 +36,14 @@ Conference presentations
   
 Skills
 ======
-* Python
-* Java
-* R
-* C
-* SQL
-* HTML
-* CSS
-* JavaScript
-* Tinkercad
-* KiCad
-* Teamwork
-* Time management
-* Fast learner
-* Detail oriented
-* Highly motivated
 
-| Technical skills  |
-| :----:        |
-| Python      |
-| Java   |
-| R   |
-| C   |
-| SQL   |
+| Technical skills  | Soft skills     |
+| :----:        |  :----:    |
+| Python      | Teamwork        |
+| Java   | Time management        |
+| R   | Fast learner        |
+| C   | Detail oriented        |
+| SQL   | Highly motivated        |
 | HTML   |
 | CSS   |
 | Javascript   |
