@@ -32,7 +32,7 @@ Work experience
 Conference presentations
 ======
 * **Classification on Multi-label Data with Ordered Labels**  
-*16th International Conference on Management of Digital Ecosystems*, November 2024
+*16th International Conference on Management of Digital Ecosystems*, Naples, Italy, November 2024
   
 Skills
 ======
