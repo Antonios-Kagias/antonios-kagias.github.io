@@ -1,6 +1,6 @@
 ---
 title: "my-eshop"
-excerpt: "A simple eshop created in the context of the undergraduate course Internet Technologies in the 4th semester of the department of Applied Informatics of the University of Macedonia.<br/><img src='/images/eshop.jpg' width='500' height='500'>"
+excerpt: "A simple eshop created in the context of the undergraduate course Internet Technologies in the 4th semester of the department of Applied Informatics of the University of Macedonia.<br/><img src='/images/eshop.jpg' width='300' height='300'>"
 collection: portfolio
 ---
 

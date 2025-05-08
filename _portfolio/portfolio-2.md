@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "aida-thesis"
+excerpt: "The project which I created as my thesis in the MSc in Artificial Intelligence and Data Analytics.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
