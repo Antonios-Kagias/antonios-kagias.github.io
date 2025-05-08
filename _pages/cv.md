@@ -52,6 +52,20 @@ Skills
 * Detail oriented
 * Highly motivated
 
+| Technical skills  |
+| :----:        |
+| Python      |
+| Java   |
+| R   |
+| C   |
+| SQL   |
+| HTML   |
+| CSS   |
+| Javascript   |
+| Tinkercad   |
+| Kicad   |
+
+
 Languages
 ======
 * Greek  
