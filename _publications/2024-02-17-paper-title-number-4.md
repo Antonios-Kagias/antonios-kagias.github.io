@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Classification on Multi-label Data with Ordered Labels"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2025-07-16-paper-title-number-4
+excerpt: ''
+date: 2025-07-16
+venue: 'Springer Nature Switzerland'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-93598-5_21'
+citation: 'Kagias, A., Evangelidis, G. (2026). Classification on Multi-label Data with Ordered Labels. In: Chbeir, R., <i>et al</i>. Management of Digital EcoSystems. MEDES 2024. Communications in Computer and Information Science, vol 2518. Springer, Cham. https://doi.org/10.1007/978-3-031-93598-5_21'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Over recent decades, multi-label data, such as songs and images tagged with multiple labels, has become increasingly prevalent. While existing research has extensively addressed multi-label classification and ranking, the aspect of considering label order remains largely unexplored. This paper investigates the classification of multi-label datasets where the labels are inherently ordered, an under-researched problem. We propose three novel classifiers that incorporate label ordering into their decision-making process, building upon the principles of BRkNN. Each algorithm uniquely handles the ordered nature of labels while maintaining computational efficiency. To evaluate the effectiveness of our classifiers, we conducted experiments on diverse datasets, leveraging metrics such as precision, recall, Jaro-Winkler distance, and ranked Hamming loss. Results indicate that while all classifiers performed comparably across datasets, certain algorithms demonstrated distinct advantages under specific conditions. Our findings offer new insights into the multi-label classification of ordered labels, paving the way for future advancements in this domain.
