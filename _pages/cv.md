@@ -24,10 +24,14 @@ Education
 
 Work experience
 ======
-* TBA
-  * TBD
-  * TBD
-  * TBD
+* **Research and Informatics Corps**
+  * *Hellenic Army*
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Conference presentations
 ======
@@ -60,9 +64,5 @@ Michigan Proficiency C2 (full working proficiency)
 * German  
 Goethe-Zertifikat B1 (limited working proficiency)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
